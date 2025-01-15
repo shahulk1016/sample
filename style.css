@@ -7,7 +7,7 @@
     /* width: fit-content; */
     padding: 10px;
 
-  text-align: center;
+    text-align: center;
 
 }
 
@@ -19,30 +19,41 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     /* width: fit-content; */
 }
-.head2{text-align: center;}
 
-.pic1{
+.head2 {
     text-align: center;
 }
 
-.content{
+.pic1 {
+    text-align: center;
+}
+
+.content {
     padding: 20 100px;
 }
-.content2{ 
+
+.content2 {
     padding: 0 100p;
 }
 
- *  {
+* {
     margin: 0;
     padding: 0
-} 
-.navbar{
-    background-color: aliceblue;
-padding:20px;
-display:flex;
-justify-content: space-between;
 }
-.menu
-{display: flex;
-gap: 20px;
-align-items: center;} 
+
+.navbar {
+    background-color: aliceblue;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.image1 {
+    text-align:right;
+}
